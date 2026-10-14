@@ -77,7 +77,7 @@ It provides the context in between. And that's intentional. The game can introdu
 
 Ready to find some NPCs?
 
-**[▶ PLAY NPC](https://missatha.github.io/NPC---Need-Pamong-Context/)**
+**[▶ PLAY NPC](https://missatha.github.io/npc-need-pamong-context/)**
 
 **Seal:** `you need to contact me to get this`
 
